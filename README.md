@@ -15,17 +15,17 @@ I've used three datasets:
 
 ## Contents 
 
-* 1. Reading and tidying data. Preparing data for exploration
-* 2. Columns Description
-* 3. Analyze data quality and make feature selection, feature extraction and feature engineering based on the result
-    * 3.1. Listings dataset
-    * 3.2. Reviews dataset
-    * 3.3. Neighbourhood geometry dataset
-* 4. Geospatial analysis
-* 5. Analyze guests reviews
-    * 5.1. Merge the two datasets 
-    * 5.2. Create wordcloud for each neighbourhood
-* 6. Heat-map of correlation  
-* 7. Prediction
+1. Reading and tidying data. Preparing data for exploration
+2. Columns Description
+3. Analyze data quality and make feature selection, feature extraction and feature engineering based on the result
+    3.1. Listings dataset
+    3.2. Reviews dataset
+    3.3. Neighbourhood geometry dataset
+4. Geospatial analysis
+5. Analyze guests reviews
+    5.1. Merge the two datasets 
+    5.2. Create wordcloud for each neighbourhood
+6. Heat-map of correlation  
+7. Prediction
 
-* 8. Key Accomplishments and conclusion
+8. Key Accomplishments and conclusion
